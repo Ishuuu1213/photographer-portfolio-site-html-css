@@ -37,7 +37,7 @@
 
 | Home Page | Contact Section |
 |-----------|-------------------|
-| ![Home](https://github.com/Ishuuu1213/photographer-portfolio-site-html-css/blob/master/images/assets/about.png) | ![Portfolio](images/asset/contact) |
+| ![Home](https://github.com/Ishuuu1213/photographer-portfolio-site-html-css/blob/master/images/assets/about.png) | ![Portfolio](https://github.com/Ishuuu1213/photographer-portfolio-site-html-css/blob/master/images/assets/contact.png) |
 
 ---
 
