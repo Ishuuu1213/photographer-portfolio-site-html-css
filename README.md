@@ -35,9 +35,9 @@
 
 ## 📸 Screenshots
 
-| Home Page | Portfolio Section |
+| Home Page | Contact Section |
 |-----------|-------------------|
-| ![Home](https://i.imgur.com/euYpFgU.png) | ![Portfolio](https://i.imgur.com/k3npkkM.png) |
+| ![Home](images/asset/about) | ![Portfolio](images/asset/contact) |
 
 ---
 
